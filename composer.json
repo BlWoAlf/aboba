@@ -1,0 +1,16 @@
+{
+    "name": "blwoalf/aboba",
+    "authors": [
+        {
+            "name": "BlWoAlf",
+            "email": "blwoalf@inbox.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Blwoalf\\Aboba\\": "src/"
+        }
+    },
+    "require": {}
+}
