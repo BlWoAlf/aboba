@@ -12,5 +12,12 @@
             "Blwoalf\\Aboba\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Blwoalf\\Aboba\\Providers\\AbobaServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
